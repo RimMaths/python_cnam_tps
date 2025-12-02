@@ -48,7 +48,6 @@ Ce dépôt contient l’ensemble de mes Travaux Pratiques réalisés dans le cad
 - Jupyter Notebook / VS Code
 - Git + GitHub
 
--
 
 ## 👩‍💻 Auteure
 **Rim El Guennouni**  
