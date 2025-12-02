@@ -1,0 +1,4 @@
+Axel;Dupon;18.0;admis
+Alexe;Lexlerc;17.0;admis
+Mattis;Rachidi;12.0;admis
+Alexis ;Rousson;7.0;ajourné
