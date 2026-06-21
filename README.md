@@ -2,7 +2,7 @@
 
 Ce dépôt contient l’ensemble de mes Travaux Pratiques réalisés dans le cadre du module Python (USSI6B) du CNAM, sous la supervision de M. Hoang-Nam Ho.
 
-## 🎯 Objectifs du module
+## Objectifs du module
 - Maîtriser les bases du langage Python  
 - Comprendre les structures de données (listes, tuples, dictionnaires)  
 - Manipuler les fichiers texte  
@@ -13,16 +13,16 @@ Ce dépôt contient l’ensemble de mes Travaux Pratiques réalisés dans le cad
 
 
 
-## 📂 Contenu du dépôt
+## Contenu du dépôt
 
-### 🟦 TP1 – Bases Python
+### TP1 – Bases Python
 - Variables et types
 - Conditions (`if/elif/else`)
 - Boucles (`for`, `while`)
 - Fonctions simples
 - Exercices : quotient, modulo, sapin, comparaison de chaînes…
 
-### 🟩 TP2 – Structures de données
+### TP2 – Structures de données
 - Listes, tuples, chaînes
 - Slicing
 - Dictionnaires
@@ -30,21 +30,21 @@ Ce dépôt contient l’ensemble de mes Travaux Pratiques réalisés dans le cad
 - Nombre d’Armstrong
 - Analyse de texte et fréquences
 
-### 🟧 TP3 – Fichiers & Géométrie
+###  TP3 – Fichiers & Géométrie
 - Lecture/écriture de fichiers texte
 - Extraction et parsing de données
 - Calculs géométriques : distance, plus proche voisin, rectangle
 - Gestion d’un fichier concours : admis, priorités, statistiques…
 
-### 🟥 TP4 – Mini-projets Python
+###  TP4 – Mini-projets Python
 - Générateur de mots de passe
 - Jeu “Rock - Paper - Scissors”
 - Jeu des étoiles & marteaux (nombre secret à 4 chiffres)
 
 
 
-## 🧰 Technologies utilisées
-- Python 3.x
+## Technologies utilisées
+- Python 3.11
 - Jupyter Notebook / VS Code
 - Git + GitHub
 
